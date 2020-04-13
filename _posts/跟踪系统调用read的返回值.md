@@ -1,0 +1,7 @@
+---
+layout: article
+title: 二分法（一）
+aside:
+  toc: true
+tags: Binary Search
+---
