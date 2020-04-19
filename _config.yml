@@ -83,16 +83,15 @@ toc:
 
 ## => Markdown Enhancements
 ##############################
-## Mathjax
-mathjax: # false (default), true
-mathjax_autoNumber: # false (default), true
+# Mathjax
+mathjax: true
+mathjax_autoNumber: true
 
-## Mermaid
-mermaid: # false (default), true
+# Mermaid
+mermaid: true
 
-## Chart
-chart: # false (default), true
-
+# Chart
+chart: true
 
 ## => Paginate
 ##############################
@@ -223,4 +222,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-  - mermaid
